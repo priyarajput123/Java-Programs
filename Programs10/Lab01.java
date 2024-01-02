@@ -3,7 +3,7 @@
         the multiples of 5, print "Buzz". For numbers which are multiples of both 3 and 5,
         print "FizzBuzz".*/
 
-        package src.basics7_27Dec;
+        package src.Programs10;
 
 public class Lab01 {
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
 // Use loops to divide the number by all numbers lesser than it to check for divisibility.
 
 
-package src.basics7_27Dec;
+package src.Programs10;
 
 import java.util.Scanner;
 
